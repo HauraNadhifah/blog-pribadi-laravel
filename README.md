@@ -2,8 +2,7 @@
 
 Website Blog Pribadi adalah aplikasi web yang dibangun menggunakan framework **Laravel 12**. Aplikasi ini dibuat sebagai tugas mata kuliah **Pemrograman Web Lanjut** dengan menerapkan konsep **Model-View-Controller (MVC)**, autentikasi, routing, migration, dan operasi **CRUD (Create, Read, Update, Delete)**.
 
-Website ini memungkinkan administrator mengelola artikel dan kategori, sedangkan pengunjung dapat membaca artikel serta memberikan komentar tanpa harus login.
-
+aplikasi web yang dibangun menggunakan framework Laravel untuk mengelola artikel blog secara mudah dan modern. Pengguna yang telah login dapat membuat, mengubah, menghapus, dan mempublikasikan artikel serta mengelola kategori. Selain itu, pengunjung dapat membaca artikel yang telah dipublikasikan dan memberikan komentar tanpa harus login.
 ---
 
 # 🚀 Teknologi yang Digunakan

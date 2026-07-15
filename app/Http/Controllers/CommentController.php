@@ -16,12 +16,12 @@ class CommentController extends Controller
             'comment' => 'required'
         ]);
 
-        Comment::create([
-            'article_id' => $article->id,
-            'name'       => $request->name,
-            'email'      => $request->email,
-            'comment'    => $request->comment,
-        ]);
+       Comment::create([
+    'article_id' => $article->id,
+    'nama'       => $request->name,
+    'email'      => $request->email,
+    'komentar'   => $request->comment,
+]);
 
         return back()->with('success', 'Komentar berhasil dikirim.');
     }
