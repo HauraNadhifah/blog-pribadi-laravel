@@ -229,8 +229,7 @@ body{
 
 <p>
 
-Temukan berbagai artikel menarik seputar teknologi,
-pemrograman, tutorial, dan informasi terbaru.
+Temukan berbagai artikel menarik seputar teknologi, pendidikan, kesehatan, keuangan, gaya hidup, serta informasi terbaru yang dapat menambah wawasan dan inspirasi Anda.
 
 </p>
 
